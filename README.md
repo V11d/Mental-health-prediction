@@ -1,0 +1,1 @@
+Analyzing the data and using machine learning algorithms like: LinearRegression, XGBoost, RandomForest etc to predict the DALYs (Daily Adjusted Life Years) that is affected due to the usage of drugs, alcohol, depression etc.
